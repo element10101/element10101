@@ -2,15 +2,13 @@
 I am the 🐱 Catlord 🐱!!!
 
 ## My Stats
-💻 Started coding **3 years ago**
-🖥️ Joined GitHub **3 months ago**
+💻 Started coding **3 years ago**<br/>
+🖥️ Joined GitHub **3 months ago**<br/>
 
-**0** followers
-**18** following
-🏢 **1** organization created
-**2** pull requests created
-**3** projects created
-**1** pull request merged
+**0** followers<br/>
+**18** following<br/>
+ **1** organization created<br/>
+**2** pull requests created<br/>
+**3** projects created<br/>
+**1** pull request merged<br/>
 **15** repositories created
-**0** codespaces created
-**
